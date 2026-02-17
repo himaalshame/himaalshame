@@ -1,3 +1,13 @@
+<!-- “Wisdom tells me I am nothing. Love tells me I am everything. And between the two my life flows.” ― Nisargadatta Maharaj -->
+<!-- Continuous Improvement Programme - CIP -->
+
+<div>
+
+### Hi Hi
+
+Since I became a member of GitHub, I've made **6272** commits, raised **472** issues, submitted **225** pull requests, earned **1701** stars across **136** personal projects, and contributed to **7** public repositories.
+
+
 <table>
 <tr>
 <td width="65%" valign="top">
