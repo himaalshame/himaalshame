@@ -43,7 +43,7 @@
 
 - 🛒 E-commerce React App
 - ✅ Todo List App
-- 🌐 Responsive Landing Pages
+- 🌐 Expense Tracker
 - 📦 API Integrated Dashboard
 
 ---
@@ -51,8 +51,8 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your-email@example.com
-- 🌍 Portfolio: Your Portfolio Link
+- 📧 Email: himaalshame22@gmail.com
+- 🌍 Portfolio: [Your Portfolio Link](https://himaa.vercel.app/)
 
 ---
 
