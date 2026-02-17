@@ -1,7 +1,11 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Ibrahim Elshamy</h1>
+<h1 align="center">
+  Ibrahim Elshamy 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <h3 align="center">Front-End Developer | React Developer</h3>
+
 
 ---
 
