@@ -53,7 +53,6 @@
 | Project | Description |
 |---------|-------------|
 | 🛒 **E-commerce React App** | Full React app with API Integration, responsive design |
-| ✅ **Todo List App** | Local Storage + Logic Handling, dynamic state updates |
 | 🌐 **Expense Tracker** | Local Storage + Logic Handling |
 | 📦 **Dashboard** | Interactive dashboard consuming APIs, handling state efficiently |
 
