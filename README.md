@@ -163,7 +163,7 @@ I'm especially interested in:
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ibrahim-ilshamy-0310803a/
+* 💼 LinkedIn:  https://www.linkedin.com/in/ibrahim-ilshamy/
 * 📧 Email: [himaalshame22@gmail.com](mailto:himaalshame22@gmail.com)
 * 🌍 Portfolio: https://himaalshame.github.io/my-Protfolio/
 
