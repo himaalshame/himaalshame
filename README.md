@@ -55,7 +55,7 @@ A connected retail platform that unifies the customer shopping journey and store
 
 **Stack:** `React` `TypeScript` `React Native` `Expo` `Node.js` `Express` `PostgreSQL` `Prisma`
 
-[🔗 Live Demo](#) · [💻 Source Code](#) · [📖 Case Study](#)
+[🔗 Live Demo](https://www.happy-group7.com/) · [💻 Source Code](#) 
 
 ---
 
