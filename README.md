@@ -1,76 +1,79 @@
 <div align="center">
 
-# Ibrahim Elshamy
+<img src="profile-banner.svg" alt="Ibrahim Elshamy — Full-Stack Developer" width="100%" />
 
-### Full-Stack Developer | Web, Mobile & Business Platforms
+### Full-Stack Developer · Web, Mobile & Business Systems
 
-I design and build dependable digital products — from polished interfaces to APIs and data-backed workflows.
+I turn real business needs into dependable digital products — from customer-facing experiences to operational platforms and APIs.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0B2D5C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ilshamy/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-0B2D5C?style=flat-square&logo=gmail&logoColor=white)](mailto:himaalshame22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-0B2D5C?style=flat-square&logo=googlechrome&logoColor=white)](https://himaalshame.github.io/my-Protfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B2D5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ilshamy/)
+[![Email](https://img.shields.io/badge/Email-Contact-0B2D5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himaalshame22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_work-0B2D5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://himaalshame.github.io/my-Protfolio/)
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I'm a developer based in Egypt who enjoys shaping practical ideas into complete products. My work spans responsive web interfaces, mobile applications, backend services, and the systems that connect them.
+I'm Ibrahim, a developer based in Egypt. I build across the stack, with a focus on clear interfaces, reliable backend systems, and software that makes everyday business workflows easier to manage.
 
-I care about clear user experiences, maintainable code, and software that solves real operational problems.
+**Areas I work in:** full-stack web development · React Native apps · REST API design · database-backed business systems
 
-## Selected Project
+## Featured Projects
 
 ### Happy Group · Commerce & Operations Platform
 
-A connected platform for a retail business, bringing customer shopping and internal operations together across web and mobile.
+A connected retail platform that brings the customer shopping journey and store operations together across web and mobile.
 
-**Product areas**
+| Customer experience | Business operations |
+| --- | --- |
+| Product discovery, categories, search, cart, accounts, orders, and order tracking | Product and inventory management, order workflows, service requests, and maintenance booking |
 
-- Product catalogue, categories, search, and shopping cart
-- Customer accounts, orders, and order tracking
-- Admin tools for products, inventory, orders, and service requests
-- Maintenance booking with customer-facing request references
-- Shared API and PostgreSQL data layer across the applications
+**Stack:** React · TypeScript · React Native · Expo · Node.js · Express · PostgreSQL · Prisma
 
-**Technology:** React · TypeScript · React Native · Expo · Node.js · Express · PostgreSQL · Prisma
+### CRM System · Client & Workflow Management
 
-## Other Projects
+A business management system for organizing client relationships and coordinating work from service requests through delivery and payment tracking.
 
-| Project | Highlights | Stack |
+- Client, service, and order management
+- Order review and approval workflow
+- Project tracking, status updates, and employee assignment
+- Payment status visibility and REST API integration
+
+**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · REST APIs
+
+## Additional Projects
+
+| Project | What it does | Built with |
 | --- | --- | --- |
-| **E-Commerce App** | Product discovery, filtering, favorites, and cart | React · JavaScript · REST API · Tailwind CSS |
-| **Expense Tracker** | Searchable expense records with CRUD and local persistence | React · JavaScript · LocalStorage |
-| **Interactive Dashboard** | API-driven views, navigation, and data visualization | React · MUI · React Router · Charts |
+| **E-Commerce App** | Product browsing, search, filters, favorites, and cart | React · JavaScript · REST API · Tailwind CSS |
+| **Expense Tracker** | Expense CRUD, search, filters, and local persistence | React · JavaScript · LocalStorage |
+| **Interactive Dashboard** | API-driven screens, navigation, and data visualization | React · MUI · React Router · Charts |
 
-## Technical Toolkit
+## Technology
 
-**Frontend**  
-<img src="https://img.shields.io/badge/React-0B2D5C?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/React_Native-0B2D5C?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-0B2D5C?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/TypeScript-0B2D5C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0B2D5C?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<p>
+  <img src="https://img.shields.io/badge/React-0B2D5C?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-0B2D5C?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0B2D5C?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-0B2D5C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0B2D5C?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-0B2D5C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0B2D5C?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B2D5C?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-0B2D5C?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B2D5C?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-0B2D5C?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-**Backend & Data**  
-<img src="https://img.shields.io/badge/Node.js-0B2D5C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0B2D5C?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/PostgreSQL-0B2D5C?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Prisma-0B2D5C?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/REST_APIs-0B2D5C?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
+## What I'm Focused On
 
-**Tools**  
-<img src="https://img.shields.io/badge/Git-0B2D5C?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0B2D5C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+- Building complete product features across web, mobile, APIs, and data
+- Improving authentication, authorization, and API validation
+- Writing maintainable systems with thoughtful architecture
 
-## Current Focus
-
-- Building full-stack features from database design through mobile and web UI
-- Improving API security, validation, and authentication flows
-- Refining architecture and delivery practices for production applications
-
-## Contact
+## Get in Touch
 
 - **LinkedIn:** [ibrahim-ilshamy](https://www.linkedin.com/in/ibrahim-ilshamy/)
 - **Email:** [himaalshame22@gmail.com](mailto:himaalshame22@gmail.com)
@@ -78,6 +81,7 @@ A connected platform for a retail business, bringing customer shopping and inter
 
 <div align="center">
 
-*Thoughtful software. Useful outcomes.*
+*Thoughtful software. Real-world impact.*
 
 </div>
+
