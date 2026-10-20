@@ -1,79 +1,76 @@
 <div align="center">
 
-# Ibrahim Elshamy 👋
+# Ibrahim Elshamy
 
-### Full-Stack Developer · React · Node.js · TypeScript
+### Full-Stack Developer | Web, Mobile & Business Platforms
 
-I build thoughtful web and mobile products, practical business tools, and reliable APIs.
+I design and build dependable digital products — from polished interfaces to APIs and data-backed workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ilshamy/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:himaalshame22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-172B4D?style=flat&logo=googlechrome&logoColor=white)](https://himaalshame.github.io/my-Protfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0B2D5C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ilshamy/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-0B2D5C?style=flat-square&logo=gmail&logoColor=white)](mailto:himaalshame22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-0B2D5C?style=flat-square&logo=googlechrome&logoColor=white)](https://himaalshame.github.io/my-Protfolio/)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I'm a full-stack developer based in Egypt, focused on building useful, maintainable applications from interface to database. I enjoy turning real business needs into clear user experiences and dependable software.
+I'm a developer based in Egypt who enjoys shaping practical ideas into complete products. My work spans responsive web interfaces, mobile applications, backend services, and the systems that connect them.
 
-- Developing with **React, TypeScript, Node.js, and Express**
-- Building mobile experiences with **React Native and Expo**
-- Designing and integrating **REST APIs**
-- Working with **PostgreSQL and Prisma**
-- Exploring application architecture, validation, and secure authentication
+I care about clear user experiences, maintainable code, and software that solves real operational problems.
 
-## Featured Work
+## Selected Project
 
-### Happy Group — Commerce & Operations Platform
+### Happy Group · Commerce & Operations Platform
 
-A connected commerce platform with a customer storefront, mobile shopping experience, and administration tools for managing products, orders, inventory, and maintenance requests.
+A connected platform for a retail business, bringing customer shopping and internal operations together across web and mobile.
 
-**Built with:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · React Native · Expo
+**Product areas**
 
-### E-Commerce Application
+- Product catalogue, categories, search, and shopping cart
+- Customer accounts, orders, and order tracking
+- Admin tools for products, inventory, orders, and service requests
+- Maintenance booking with customer-facing request references
+- Shared API and PostgreSQL data layer across the applications
 
-A responsive shopping experience featuring product discovery, search and filters, favorites, and a shopping cart, integrated with REST APIs.
+**Technology:** React · TypeScript · React Native · Expo · Node.js · Express · PostgreSQL · Prisma
 
-**Built with:** React · JavaScript · REST APIs · Context API · Tailwind CSS
+## Other Projects
 
-### Expense Tracker
+| Project | Highlights | Stack |
+| --- | --- | --- |
+| **E-Commerce App** | Product discovery, filtering, favorites, and cart | React · JavaScript · REST API · Tailwind CSS |
+| **Expense Tracker** | Searchable expense records with CRUD and local persistence | React · JavaScript · LocalStorage |
+| **Interactive Dashboard** | API-driven views, navigation, and data visualization | React · MUI · React Router · Charts |
 
-A lightweight expense management app with search, filtering, CRUD workflows, and browser-based persistence.
+## Technical Toolkit
 
-**Built with:** React · JavaScript · LocalStorage · CSS
+**Frontend**  
+<img src="https://img.shields.io/badge/React-0B2D5C?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/React_Native-0B2D5C?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-0B2D5C?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/TypeScript-0B2D5C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B2D5C?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-### Interactive Dashboard
+**Backend & Data**  
+<img src="https://img.shields.io/badge/Node.js-0B2D5C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0B2D5C?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B2D5C?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Prisma-0B2D5C?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/REST_APIs-0B2D5C?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
 
-A data-focused dashboard exploring API integration, navigation, charts, and application state management.
+**Tools**  
+<img src="https://img.shields.io/badge/Git-0B2D5C?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0B2D5C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 
-**Built with:** React · MUI · React Router · REST APIs · Charts
+## Current Focus
 
-## Toolkit
+- Building full-stack features from database design through mobile and web UI
+- Improving API security, validation, and authentication flows
+- Refining architecture and delivery practices for production applications
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111?style=flat&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## Currently Exploring
-
-- Secure authentication and authorization with JWT
-- API validation and consistent error handling with Zod
-- Backend architecture, clean code, and production workflows
-- Building complete products across web, mobile, and backend
-
-## Let's Connect
+## Contact
 
 - **LinkedIn:** [ibrahim-ilshamy](https://www.linkedin.com/in/ibrahim-ilshamy/)
 - **Email:** [himaalshame22@gmail.com](mailto:himaalshame22@gmail.com)
@@ -81,6 +78,6 @@ A data-focused dashboard exploring API integration, navigation, charts, and appl
 
 <div align="center">
 
-*Building useful things, one improvement at a time.*
+*Thoughtful software. Useful outcomes.*
 
 </div>
