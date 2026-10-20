@@ -76,7 +76,7 @@ A business management system that coordinates work from service request through 
 
 **Stack:** `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `REST APIs`
 
-[🔗 Live Demo](#) · [💻 Source Code](#)
+[🔗 Live Demo](https://crm-frontend-lac-eight.vercel.app/) · [💻 Source Code](https://github.com/himaalshame/CRM-system)
 
 ---
 
