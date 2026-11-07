@@ -1,6 +1,7 @@
 <div align="center">
 
-<img  alt="Ibrahim Elshamy — Full-Stack Developer" width="100%" />
+<h1 align="center">Ibrahim Elshamy</h1>
+<h3 align="center">Full-Stack Developer · Web & Mobile</h3>
 
 <a href="https://github.com/himaalshame">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=I+turn+business+workflows+into+clean+software;React+%C2%B7+React+Native+%C2%B7+Node.js;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Prisma;Open+to+opportunities" alt="Typing animation" />
