@@ -141,4 +141,5 @@ I'm open to full-stack roles and freelance projects where I can own features fro
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2D5C,100:2F81F7&height=100&section=footer" alt="" width="100%" />
 
+
 </div>
