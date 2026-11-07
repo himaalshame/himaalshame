@@ -22,7 +22,7 @@ A connected retail platform that unifies the customer shopping journey and store
 
 🛒 Customer experience	🏪 Business operations
 Product discovery, categories, search, cart, accounts, orders, and order tracking	Product and inventory management, order workflows, service requests, and maintenance booking
-<!-- Add a real screenshot: <img src="assets/happy-group-preview.png" alt="Happy Group preview" width="100%" /> -->
+ Add a real screenshot: <img src="assets/happy-group-preview.png" alt="Happy Group preview" width="100%" />
 
 Highlights
 
