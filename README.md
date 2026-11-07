@@ -19,7 +19,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 👋 About Me
 
@@ -32,7 +32,7 @@ I'm a full-stack developer based in Egypt. I build complete features end to end:
 | 🌱 **Currently improving** | Authentication, authorization, and API validation |
 | 📫 **Reach me** | [himaalshame22@gmail.com](mailto:himaalshame22@gmail.com) |
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
@@ -44,7 +44,15 @@ A connected retail platform that unifies the customer shopping journey and store
 | --- | --- |
 | Product discovery, categories, search, cart, accounts, orders, and order tracking | Product and inventory management, order workflows, service requests, and maintenance booking |
 
-<!-- Add a real screenshot: <img src="assets/happy-group-preview.png" alt="Happy Group preview" width="100%" /> -->
+<!-- 📸 Happy Group screenshots: upload assets/happy-group-web.png and assets/happy-group-mobile.png, then remove the opening and closing comment markers around the table below -->
+<!--
+<table>
+  <tr>
+    <td width="70%"><img src="assets/happy-group-web.png" alt="Happy Group web" /></td>
+    <td width="30%"><img src="assets/happy-group-mobile.png" alt="Happy Group mobile" /></td>
+  </tr>
+</table>
+-->
 
 **Highlights**
 - Shared TypeScript types across web, mobile, and API layers
@@ -55,7 +63,7 @@ A connected retail platform that unifies the customer shopping journey and store
 
 [🔗 **Live Demo**](https://www.happy-group7.com/)
 
-<br/>
+---
 
 ### 📋 CRM System — Client & Workflow Management
 
@@ -69,6 +77,16 @@ A business management system that coordinates work from service request through 
 | **Payments** | Clear payment-status visibility |
 | **API-first** | REST endpoints consumed by the React frontend |
 
+<!-- 📸 CRM screenshots: upload assets/crm-dashboard.png and assets/crm-orders.png, then remove the opening and closing comment markers around the table below -->
+<!--
+<table>
+  <tr>
+    <td><img src="assets/crm-dashboard.png" alt="CRM dashboard" /></td>
+    <td><img src="assets/crm-orders.png" alt="CRM orders" /></td>
+  </tr>
+</table>
+-->
+
 **Highlights**
 - Layered Express architecture (routes → controllers → services)
 - Request validation and consistent error handling
@@ -78,7 +96,7 @@ A business management system that coordinates work from service request through 
 
 [🔗 **Live Demo**](https://crm-frontend-lac-eight.vercel.app/) · [💻 **Source Code**](https://github.com/himaalshame/CRM-system)
 
-<br/>
+---
 
 ## 🧩 More Projects
 
@@ -90,7 +108,7 @@ A business management system that coordinates work from service request through 
 
 <!-- Add links per project, e.g. [Demo](URL) · [Code](URL), once the repos are ready -->
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -111,7 +129,7 @@ A business management system that coordinates work from service request through 
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Tools" />
 
-<br/>
+---
 
 ## 🤝 Let's Work Together
 
