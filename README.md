@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2D5C,100:2F81F7&height=200&section=header&text=Ibrahim%20Elshamy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Web%20%26%20Mobile&descSize=18&descAlignY=58" alt="Ibrahim Elshamy — Full-Stack Developer" width="100%" />
+<img  alt="Ibrahim Elshamy — Full-Stack Developer" width="100%" />
 
 <a href="https://github.com/himaalshame">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=I+turn+business+workflows+into+clean+software;React+%C2%B7+React+Native+%C2%B7+Node.js;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+Prisma;Open+to+opportunities" alt="Typing animation" />
