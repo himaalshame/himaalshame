@@ -45,14 +45,14 @@ A connected retail platform that unifies the customer shopping journey and store
 | Product discovery, categories, search, cart, accounts, orders, and order tracking | Product and inventory management, order workflows, service requests, and maintenance booking |
 
 <!-- 📸 Happy Group screenshots: upload assets/happy-group-web.png and assets/happy-group-mobile.png, then remove the opening and closing comment markers around the table below -->
-<!--
+
 <table>
   <tr>
-    <td width="70%"><img src="assets/happy-group-web.png" alt="Happy Group web" /></td>
+    <td width="70%"><img src="happy-group-preview.png" alt="Happy Group web" /></td>
     <td width="30%"><img src="assets/happy-group-mobile.png" alt="Happy Group mobile" /></td>
   </tr>
 </table>
--->
+
 
 **Highlights**
 - Shared TypeScript types across web, mobile, and API layers
