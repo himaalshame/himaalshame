@@ -49,7 +49,7 @@ A connected retail platform that unifies the customer shopping journey and store
 <table>
   <tr>
     <td width="70%"><img src="happy-group-preview.png" alt="Happy Group web" /></td>
-    <td width="30%"><img src="assets/happy-group-mobile.png" alt="Happy Group mobile" /></td>
+    <td width="30%"><img src="happy-group-mobile.jpeg" alt="Happy Group mobile" /></td>
   </tr>
 </table>
 
